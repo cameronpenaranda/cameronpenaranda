@@ -15,7 +15,7 @@ Computer Science student at SDSU, currently exploring software engineering, mach
 
 ## languages
 
-`C++` `Java` `Python` `JavaScript`
+`C++` `Java` `Python` `JavaScript` `GDScript`
 
 ## the plan
 
